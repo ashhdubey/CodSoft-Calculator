@@ -1,6 +1,6 @@
 ## About
 This project is a simple, fully functional calculator built using HTML5, CSS3, and JavaScript. It was developed as part of an internship project to demonstrate proficiency in front-end web development technologies
-<a href="https://ashhdubey.github.io/CodSoft-Calculator/">**Visit Now** 🚀</a>
+<a href="https://ashhhdubey.github.io/CodSoft-Calculator/">**Visit Now** 🚀</a>
 
 
 ## 📌 Features
